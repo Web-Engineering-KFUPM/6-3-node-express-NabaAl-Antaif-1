@@ -10,7 +10,7 @@ const quotes = [
 ];
 
 
-// TODO 3: Create and export getRandomQuote function
+// TODO 3: Create and export getRandomQuote function>
 //Hint: export function getRandomQuote(){}
 export function getRandomQuote() {
   const index = getRandomInt(quotes.length);
